@@ -2,7 +2,7 @@
 **Cybersecurity Analyst | Detection Engineering | Blue Team Operations**
 
 I’m passionate about building and defending modern enterprise networks through threat detection, adversary simulation, and continuous learning.  
-I currently work as a **Security Analyst at Menards Corporate**, where I design SIEM detections, automate response workflows, and perform threat investigation and validation.
+I currently work as a **Security Analyst**, where I design SIEM detections, automate response workflows, and perform threat investigation and validation.
 
 ### 🧩 Interests
 - Detection Engineering & SIEM Analytics (Splunk, LogScale, ELK)
