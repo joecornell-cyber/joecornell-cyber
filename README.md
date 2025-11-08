@@ -25,7 +25,7 @@ I currently work as a **Security Analyst**, where I design SIEM detections, auto
 | Project | Description | Link |
 |----------|--------------|------|
 | **Splunk SIEM Detection Lab** | Custom Splunk dashboard and correlation rules for Windows event logs and simulated attacks using Atomic Red Team. | _Coming soon_ |
-| **BAS Automation Script** | Python + PowerShell scripts that simulate attack paths mapped to MITRE ATT&CK to validate SOC detections. | _Coming soon_ |
+
 
 ### 📰 Articles
 Check out my cybersecurity posts on [Medium](https://medium.com):
