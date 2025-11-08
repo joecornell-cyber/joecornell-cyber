@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Joe Cornell
+**Cybersecurity Analyst | Detection Engineering | Blue Team Operations**
 
-<!--
-**joecornell-cyber/joecornell-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about building and defending modern enterprise networks through threat detection, adversary simulation, and continuous learning.  
+I currently work as a **Security Analyst at Menards Corporate**, where I design SIEM detections, automate response workflows, and perform threat investigation and validation.
 
-Here are some ideas to get you started:
+### 🧩 Interests
+- Detection Engineering & SIEM Analytics (Splunk, LogScale, ELK)
+- Threat Hunting & Incident Response
+- Adversary Simulation / BAS
+- Blue Team Tooling and Security Automation
+- Penetration Testing
+- Writing about Cybersecurity on [Medium](https://medium.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Certifications
+- CompTIA Security+
+- CompTIA CySA+
+- Blue Team Level 1
+- Splunk Core Certified User
+- PJPT (TCM Security)
+- Working toward PNPT (Dec 2025)
+- OSCP (Spring 2026)
+
+### 🧰 Projects
+| Project | Description | Link |
+|----------|--------------|------|
+| **Splunk SIEM Detection Lab** | Custom Splunk dashboard and correlation rules for Windows event logs and simulated attacks using Atomic Red Team. | _Coming soon_ |
+| **BAS Automation Script** | Python + PowerShell scripts that simulate attack paths mapped to MITRE ATT&CK to validate SOC detections. | _Coming soon_ |
+
+### 📰 Articles
+Check out my cybersecurity posts on [Medium](https://medium.com):
+- _PJPT Certification Review_ — coming soon  
+- _Building a SIEM Home Lab on Splunk_ — coming soon  
+- _Learning Detection Engineering through MITRE ATT&CK_ — coming soon  
+
+### 📫 Connect
+📧 [joe88cornell@yahoo.com](mailto:joe88cornell@yahoo.com)  
+💼 [LinkedIn](https://linkedin.com/in/joe-cornell)  
