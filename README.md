@@ -5,7 +5,7 @@ I’m passionate about building and defending modern enterprise networks through
 I currently work as a **Security Analyst**, where I design SIEM detections, automate response workflows, and perform threat investigation and validation.
 
 ### 🧩 Interests
-- Detection Engineering & SIEM Analytics (Wazuh, LogScale, ELK)
+- Detection Engineering & SIEM Analytics (Wazuh, LogScale, Splunk)
 - Threat Hunting & Incident Response
 - Adversary Simulation / BAS
 - Blue Team Tooling and Security Automation
