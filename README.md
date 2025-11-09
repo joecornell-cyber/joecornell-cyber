@@ -24,6 +24,8 @@ I currently work as a **Security Analyst**, where I design SIEM detections, auto
 | Project | Description | Link |
 |----------|--------------|------|
 | **Wazuh SIEM Implementation & Detection Lab** | Designed a complete Wazuh environment using VMware, deploying a centralized Wazuh server (manager, indexer, and dashboard) with multiple agents across Windows and Linux hosts. Built detection rules, dashboards, and alert workflows to visualize security events and demonstrate SIEM correlation capabilities. | _Coming soon_ |
+| **Active Directory Offensive Lab** | Build an isolated AD domain (1x DC + 2x hosts) for hands-on offensive exercises. Includes repeatable Vagrant/VM templates, walkthroughs for Kerberoasting, AS-REP roasting, DCSync, pass-the-hash, lateral movement, and post-exploitation. Comes with attack playbooks, BloodHound graphs, detection notes, and recommended mitigations for defenders. | _Coming soon_ |
+
 
 ### 📰 Articles
 Check out my cybersecurity posts on [Medium](https://medium.com):
